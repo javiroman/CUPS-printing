@@ -1,0 +1,20 @@
+# 
+# Config file for VM laptop tests
+#
+
+# CUPS Cluster host 1
+CUPS_CLUSTER_HOST1=sgt2-master
+# CUPS Cluster host 2
+CUPS_CLUSTER_HOST2=sgt2-slave1
+# QUEUE NAME for printer 1
+QUEUE_NAME1=IMPREOFI
+# QUEUE NAME for printer 1
+QUEUE_NAME2=IMPRESD
+
+# Printer 1 IP: Pasillo sala 14
+ADDR_PRN1=10.99.28.48
+# Printer 2 IP: Pasillo sala 14
+ADDR_PRN2=10.99.28.48
+# Loop counter
+COUNTER=1
+

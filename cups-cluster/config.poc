@@ -1,0 +1,18 @@
+#
+# Config file for PoC
+#
+
+# CUPS Cluster host 1
+CUPS_CLUSTER_HOST1=192.168.0.1
+# CUPS Cluster host 2
+CUPS_CLUSTER_HOST2=192.168.0.2
+# QUEUE NAME for printer 1
+QUEUE_NAME1=IMPREOFI
+# QUEUE NAME for printer 1
+QUEUE_NAME2=IMPRESD
+# Printer 1 IP
+ADDR_PRN1=10.31.80.5
+# Printer 1 IP
+ADDR_PRN2=10.31.80.8
+# Loop counter
+COUNTER=1
